@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can reach me at: [toure.francois_gonothi@courrier.uqam.ca](mailto:toure.francois_gonothi@courrier.uqam.ca) — or — [francoisgonothitoure@gmail.com](mailto:francoisgonothitoure@gmail.com). **I’ll do my best to respond promptly.**\
 📄 &nbsp;Take a look at my: [Résumé](https://github.com/gtfrans2re/gtfrans2re/blob/615e928bd9e66db35f93834dfe0a03c83c988fce/gtfrans2re_resume.pdf) for a comprehensive overview of my experience. I’m always open to **feedback** and **suggestions**!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> \
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,13 +32,21 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-
-### ⚙️ &nbsp;GitHub Analytics
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <p align="center">
-<a href="https://github.com/gtfrans2re">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtfrans2re&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gtfrans2re&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtfrans2re&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="gtfrans2re" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gtfrans2re&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true" alt="gtfrans2re" width="410" /></p>
+<br><br><br><br><br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtfrans2re&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=gtfrans2re&theme=juicyfresh&no-bg=true&count_private=true" />
+
+
