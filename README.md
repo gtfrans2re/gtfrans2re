@@ -2,6 +2,10 @@
 
 ## 👋 &nbsp;Hey there! I'm Francois Gonothi Toure
 
+<p align="right"> <h3>Profile Views :- 2025</h3> <img src="https://komarev.com/ghpvc/?username=gtfrans2re&label=Profile%20views&color=0e75b6&style=flat"
+    alt="gtfrans2re" /> 
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am passionate about: exploring cutting-edge technologies and crafting innovative software solutions and efficient hacks.\
