@@ -53,4 +53,14 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=gtfrans2re&theme=juicyfresh&no-bg=true&count_private=true" />
 
+<br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtfrans2re" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gtfrans2re" height="30" width="40" /></a>
+<a href="https://kaggle.com/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gtfrans2re" height="30" width="40" /></a>
+<a href="https://medium.com/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gtfrans2re" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gtfrans2re" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gtfrans2re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gtfrans2re" height="30" width="40" /></a>
+</p>
