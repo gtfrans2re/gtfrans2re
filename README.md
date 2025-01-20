@@ -43,7 +43,8 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtfrans2re&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="gtfrans2re" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gtfrans2re&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true" alt="gtfrans2re" width="410" /></p>
+<p>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtfrans2re&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</p>
 <br><br><br><br><br>
 
 <p align="center">
