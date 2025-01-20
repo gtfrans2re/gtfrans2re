@@ -42,10 +42,20 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtfrans2re&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="gtfrans2re" /></p>
-<p>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtfrans2re&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<div align="center">
+<p>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gtfrans2re&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats" />
 </p>
-<br><br><br><br><br>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtfrans2re&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="gtfrans2re" />
+</p>
+<p>
+    &nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtfrans2re&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</p> 
+</div>
+
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtfrans2re&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
