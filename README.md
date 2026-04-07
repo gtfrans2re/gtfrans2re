@@ -1,4 +1,6 @@
-![Francois Gonothi Toure Banner](https://github.com/gtfrans2re/gtfrans2re/blob/351f79caa1edadf7c7953a792599d6d0507f51f9/linkedin_gtfrans2re.png)
+| ![Francois Gonothi Toure Banner](https://github.com/gtfrans2re/gtfrans2re/blob/main/1766776127534.jpeg) |
+| :---: |
+
 
 ## 👋 &nbsp;Hey there! I'm Francois Gonothi Toure
 
