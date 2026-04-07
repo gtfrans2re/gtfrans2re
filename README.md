@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am passionate about: exploring cutting-edge technologies and crafting innovative software solutions and efficient hacks.\
-🎓 &nbsp;Currently pursuing a: **[Master's in Computer Science, specialization in Electronic Systems (M.Sc.) (2282)](https://etudier.uqam.ca/programme?code=2283)** at the **University of Quebec at Montreal** (**UQAM**).\
+🎓 &nbsp;Currently pursuing a: **[Master's in Computer Science, specialization in Artificial Intelligence (M.Sc.) (2282)](https://etudier.uqam.ca/programme?code=2283)** at the **University of Quebec at Montreal** (**UQAM**).\
 🌱 &nbsp;Deeply interested in: advancing my knowledge and skills in **Artificial Intelligence**, **Robotics**, and **Cybersecurity**.\
 ✍️ &nbsp;In my spare time, I enjoy: **reading insightful books** and **watching trending movies** as part of my creative pursuits.**\
 💬 &nbsp;Feel free to connect with me for: **consulting**, **volunteering opportunities**, or engaging in **thought-provoking discussions**.\
